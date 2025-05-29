@@ -55,3 +55,13 @@ a:hover {
     grid-column: 3;
     grid-row: 1;
 }
+
+.youtube {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.github {
+    grid-column: 3;
+    grid-row: 2;
+}
