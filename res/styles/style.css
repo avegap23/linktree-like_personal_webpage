@@ -26,9 +26,19 @@ a:hover {
     grid-auto-rows: minmax(100px, auto);
 }
 
-#grid h4 {
+.grid-item-common {
     font-style: italic;
     text-align: center;
+    padding-top: 15px;
+}
+
+.grid-item-common:hover {
+    background-color: rgba(128, 128, 128, 0.2);
+    text-decoration: none;
+}
+
+.grid-item-common:visited {
+    color: inherit;
 }
 
 .twitter-x {
